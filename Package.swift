@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "GenesysCloud",
+    name: "Genesys",
     platforms: [
         .iOS(.v15)
     ],
@@ -41,3 +41,4 @@ let package = Package(
         ),
     ]
 )
+
